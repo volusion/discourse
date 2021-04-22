@@ -173,7 +173,7 @@ GEM
       mini_portile (~> 0.6.0)
     nokogumbo (1.2.0)
       nokogiri
-    oauth (0.4.7)
+    oauth (0.5.6)
     oauth2 (1.0.0)
       faraday (>= 0.8, < 0.10)
       jwt (~> 1.0)
